@@ -93,7 +93,7 @@ cmake --build .
 ## 📊 Örnek Çıktı
 
 ```
---- YTU 8086 OS Simulasyonu (Mert Danaci - 22011645) ---
+--- YTU 8086 OS Simulasyonu (Mert Danaci) ---
 
 [SUCCESS] PostgreSQL baglantisi basarili!
 [PROCESS] PID 1 olusturuldu. Segment: 0x1000, Burst: 10, Priority: 2
